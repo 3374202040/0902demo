@@ -6,7 +6,7 @@
 
     <!--定义别名-->
     <typeAliases>
-
+        <typeAlias type="com.newer.domain.TeaOrder" alias="TeaOrder"/>
     </typeAliases>
 
     <!--数据库连接环境配置-->
